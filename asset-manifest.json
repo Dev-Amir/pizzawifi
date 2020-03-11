@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pizzawifi/static/css/main.e3e26bfb.chunk.css",
+    "main.js": "/pizzawifi/static/js/main.580c7ac8.chunk.js",
+    "main.js.map": "/pizzawifi/static/js/main.580c7ac8.chunk.js.map",
+    "runtime-main.js": "/pizzawifi/static/js/runtime-main.971a41df.js",
+    "runtime-main.js.map": "/pizzawifi/static/js/runtime-main.971a41df.js.map",
+    "static/css/2.03843819.chunk.css": "/pizzawifi/static/css/2.03843819.chunk.css",
+    "static/js/2.b88e4afb.chunk.js": "/pizzawifi/static/js/2.b88e4afb.chunk.js",
+    "static/js/2.b88e4afb.chunk.js.map": "/pizzawifi/static/js/2.b88e4afb.chunk.js.map",
+    "index.html": "/pizzawifi/index.html",
+    "precache-manifest.76b44c657e8710ac1c237ad57f4a8b9d.js": "/pizzawifi/precache-manifest.76b44c657e8710ac1c237ad57f4a8b9d.js",
+    "service-worker.js": "/pizzawifi/service-worker.js",
+    "static/css/2.03843819.chunk.css.map": "/pizzawifi/static/css/2.03843819.chunk.css.map",
+    "static/css/main.e3e26bfb.chunk.css.map": "/pizzawifi/static/css/main.e3e26bfb.chunk.css.map",
+    "static/media/149777810989966.png": "/pizzawifi/static/media/149777810989966.7cf60289.png",
+    "static/media/149777820085199.png": "/pizzawifi/static/media/149777820085199.6c207bf0.png",
+    "static/media/149779651117863.png": "/pizzawifi/static/media/149779651117863.19a719f7.png",
+    "static/media/150123256333789.png": "/pizzawifi/static/media/150123256333789.fb7be4ff.png",
+    "static/media/150123290550163.png": "/pizzawifi/static/media/150123290550163.6352b793.png",
+    "static/media/150123298736745.png": "/pizzawifi/static/media/150123298736745.606c3bb1.png",
+    "static/media/150175428143654.png": "/pizzawifi/static/media/150175428143654.0f0bcd6a.png",
+    "static/media/fonts.css": "/pizzawifi/static/media/Vazir.e5b0de94.eot",
+    "static/media/about.jpg": "/pizzawifi/static/media/about.60888b32.jpg",
+    "static/media/banner1.jpg": "/pizzawifi/static/media/banner1.0e643e7b.jpg",
+    "static/media/font-awesome.min.css": "/pizzawifi/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/footer-logo.png": "/pizzawifi/static/media/footer-logo.a7308ae5.png",
+    "static/media/logo-header.png": "/pizzawifi/static/media/logo-header.0100131f.png"
+  }
+}
